@@ -1,0 +1,9 @@
+{
+    "stateMessageMap": {
+        "busy": "朕在忙！",
+        "studying": "朕在学习！",
+        "sleeping": "sleeping"
+    },
+    "contactSessionTimeout": 10,
+    "refreshInterval": 3600
+}
