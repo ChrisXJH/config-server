@@ -2,7 +2,7 @@
     "stateMessageMap": {
         "busy": "您呼叫的用户暂时无法回复，请长按手机电源键后重试",
         "studying": "朕在学习！",
-        "sleeping": "在睡觉"
+        "sleeping": "在睡觉 zZ"
     },
     "contactSessionTimeout": 10,
     "refreshInterval": 3600
