@@ -1,6 +1,6 @@
 {
     "stateMessageMap": {
-        "busy": "朕在忙！",
+        "busy": "您呼叫的用户暂时无法回复您的消息，请长按手机电源键后重试",
         "studying": "朕在学习！",
         "sleeping": "sleeping"
     },
